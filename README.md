@@ -9,4 +9,5 @@ my reading list
 ### self improvement books
 * seven habits of highly effective people
 * digital minimilism
+* culture code
 * 
