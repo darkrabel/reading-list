@@ -10,4 +10,15 @@ my reading list
 * seven habits of highly effective people
 * digital minimilism
 * the  culture code
-* 
+* 0:00 Video starts
+*  Almanack of Naval Ravikant
+* Rework: Change The Way You Work Forever
+* Psychology of Money
+* Hard Thing About Hard Things
+* Ikigai: The Japanese Secret to a Long and Happy Life
+* Subtle Art of Not Giving a F
+* Rich Dad Poor Dad
+* Ego is the Enemy
+* Giveaway Alert
+* Why I love reading books
+
