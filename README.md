@@ -10,7 +10,7 @@ my reading list
 * seven habits of highly effective people
 * digital minimilism
 * the  culture code
-* 0:00 Video starts
+
 *  Almanack of Naval Ravikant
 * Rework: Change The Way You Work Forever
 * Psychology of Money
@@ -21,4 +21,19 @@ my reading list
 * Ego is the Enemy
 * Giveaway Alert
 * Why I love reading books
+* 1. The Millionaire Next Door
+* The Richest Man in Babylon
+* The Art of War
+* Start With Why - Simon Sinek
+* Losing My Virginity - Richard Branson
+* Tools of Titans & Tribes of Mentors
+*  Principles: Life and Work
+*  The Internet of Money: Talks
+* The 7 Habits of Highly Effective People
+* Crushing It: 2018
+* Outliers: The Story of Success
+* Elon Musk: Tesla, SpaceX, and The Quest for a Fantastic Future
+* The Hard Thing About Hard Things
+*  How to Build a Billion Dollar App
+*   Solve for Happy
 
